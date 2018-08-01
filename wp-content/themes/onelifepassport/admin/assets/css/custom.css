@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.form-group .input-group-addon {
+    background: #ee2375;
+    border: 1px solid #ee2375;
+    color: #fff;
+    padding: 6px 8px;
+}
+
+.onlief_setting_form input.form-control {
+    width: 100%;
+}
+
+.onlief_setting_form label {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.alert-info-sucess {
+    background: #ccffcc;
+    color: #004d00;
+    font-weight: 500;
+}
+
+
+.alert-info-error {
+    background:#ffcccc;
+    color: #4d0000;
+    font-weight: 500;
+}
+.head-right {
+	display: block;
+
+	width: 100%;
+	clear: both;
+	margin-bottom: 10px;
+	text-align: right;
+}
+
+.cs-pass-change-btn {
+	padding: 8px 10px;
+	display: inline-block;
+	background: #85bf40;
+	border: 1px solid #85bf40;
+	color: #fff;
+}
+.cs-pass-change-btn:hover{ color: #fff; text-decoration: none;}

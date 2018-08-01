@@ -1,0 +1,17 @@
+/*
+Theme Name: 1 Life Passport
+Theme URI: http://www.brainiuminfotech.com/
+Author: Team Brainium
+Author URI: http://www.brainiuminfotech.com/
+Description: 1 Life Passpor
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentyseventeen
+Tags: accessibility-ready, custom-colors, full-width
+textdomain: onelifepassport
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@charset "UTF-8";
+

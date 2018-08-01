@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+.form-group .input-group-addon {
+    background: #ee2375;
+    border: 1px solid #ee2375;
+    color: #fff;
+    padding: 6px 8px;
+}
+
+.cs-view-cont label {
+    display: block;
+    margin-bottom: 2px;
+    font-weight: 600;
+    width: 100%;
+    
+}
+
+.cs-view-cont .row {
+    border-bottom: 1px solid #e16e9d;
+    margin-bottom: 15px;
+}
+
+.cs-view-cont p{margin-bottom:5px;}
+
+.cs-message-wrap { 
+    display: inline-block;
+    width: 100%;
+    background: #ccffcc;
+    padding: 0px;
+    margin-bottom: 12px;
+}
+.cs-message-wrap p{
+	margin-bottom: 0;
+	 padding: 5px;
+    color: #009900;
+    }
+    .cs-org-list{display:none;}
+    
+    .cs-loader {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 90%;
+    margin: auto;
+}
+
+    img.cs-img-loader {
+    margin: auto;
+    display: block;
+    top: 10%;
+    position: relative;
+}
+
+.table-responsive {
+    max-height:360px;
+}
+
+.cs-form-err {
+    color: #ff0000;
+    text-align: center;
+}
+
+.cs-no-break{word-break:keep-all;}
